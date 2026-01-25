@@ -1,3 +1,5 @@
 venv/
 __pycache__/
 *.pyc
+echo notebooks/ドリフト検出/data/test_0_ドリフト検出の簡易デモ/cifar10_preprocessed.npz >> .gitignore
+
