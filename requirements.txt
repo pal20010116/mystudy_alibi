@@ -10,5 +10,6 @@ statsmodels
 tsfresh
 tensorflow
 plotly
-alibi
 alibi-detect[tensorflow,prophet]
+ipywidgets
+ipympl
