@@ -13,3 +13,4 @@ plotly
 alibi-detect[tensorflow,prophet]
 ipywidgets
 ipympl
+rdata
