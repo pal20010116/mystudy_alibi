@@ -1,8 +1,8 @@
 venv/
 __pycache__/
 *.pyc
+notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_FaultFree_Testing.RData
+notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_FaultFree_Training.RData
+notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_Faulty_Testing.RData
+notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_Faulty_Training.RData
 notebooks/ドリフト検出/data/test_0_ドリフト検出の簡易デモ/cifar10_preprocessed.npz
-notebooks/ドリフト検出/note用/周期的波形の異常検知/sampleData/TEPdata/TEP_FaultFree_Testing.RData
-notebooks/ドリフト検出/note用/周期的波形の異常検知/sampleData/TEPdata/TEP_FaultFree_Training.RData
-notebooks/ドリフト検出/note用/周期的波形の異常検知/sampleData/TEPdata/TEP_Faulty_Testing.RData
-notebooks/ドリフト検出/note用/周期的波形の異常検知/sampleData/TEPdata/TEP_Faulty_Training.RData
