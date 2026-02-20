@@ -5,8 +5,8 @@ notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleD
 notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_FaultFree_Training.RData
 notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_Faulty_Testing.RData
 notebooks/ドリフト検出/note用/周期的波形の異常検知_test/sampleData/TEPdata/TEP_Faulty_Training.RData
+notebooks/ドリフト検出/note用/周期的波形の特徴量の算出_等間隔/features_cwt_1.npz
+notebooks/ドリフト検出/note用/周期的波形の特徴量の算出_等間隔/features_cwt_2.npz
+notebooks/ドリフト検出/note用/周期的波形の特徴量の算出_等間隔/features_cwt_3.npz
+notebooks/ドリフト検出/note用/周期的波形の特徴量の算出_等間隔/features_cwt.npz
 notebooks/ドリフト検出/data/test_0_ドリフト検出の簡易デモ/cifar10_preprocessed.npz
-notebooks/ドリフト検出/note用/周期的波形の特徴量の算出/features_cwt_1.npz
-notebooks/ドリフト検出/note用/周期的波形の特徴量の算出/features_cwt_2.npz
-notebooks/ドリフト検出/note用/周期的波形の特徴量の算出/features_cwt_3.npz
-notebooks/ドリフト検出/note用/周期的波形の特徴量の算出/features_cwt.npz
