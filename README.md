@@ -9,3 +9,5 @@ alibi detect モジュールを使って勉強するために作成
 https://docs.seldon.ai/alibi-detect
 
 alibiはPython3.13以降では使用できないため、3.12にしている。
+
+https://chatgpt.com/share/69a0c611-ab2c-800a-963f-5124204018a2
